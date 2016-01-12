@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Automatic Internal Links ===
 Contributors: georgestephanis
 Tags: internal links
 Requires at least: 4.3
