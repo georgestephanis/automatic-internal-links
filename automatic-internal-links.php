@@ -4,6 +4,7 @@
  * Plugin Name: Automatic Internal Links
  * Plugin URI: http://github.com/georgestephanis/automatic-internal-links/
  * Description: Provide automatic callout embeds for internal links.
+ * Version: 0.9
  * Author: George Stephanis
  * Author URI: http://stephanis.info/
  * Text Domain: automatic-internal-links
